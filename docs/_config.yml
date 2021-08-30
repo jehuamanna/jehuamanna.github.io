@@ -28,7 +28,7 @@ twitter_username: "@jehuamanna"
 github_username:  "jehuamanna"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
