@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "I love to solve problems using web technologies. JavaScript/TypeScript (along with the foundation, that is, HTML and CSS) is my way to achieve that. I will not consider any UI frameworks, libraries, or abstractions superior to JavaScript. I continue to believe that I have a significant amount of work ahead of me.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
