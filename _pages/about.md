@@ -6,7 +6,7 @@ subtitle: <a href='/cv'>Computer Engineer</a>. India.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Udupi</p>
@@ -25,4 +25,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I love to solve problems using `web technologies`. `JavaScript/TypeScript` (along with the foundation, that is, `HTML` and `CSS`) is my way to achieve that. I will not consider any UI frameworks, libraries, or abstractions superior to `JavaScript`. I continue to believe that I have a `significant` amount of work ahead of me.
+I love to solve problems using `Web Technologies`. `JavaScript/TypeScript` (along with the foundation, that is, `HTML` and `CSS`) is my way to achieve that. I will not consider any UI frameworks, libraries, or abstractions superior to `JavaScript`. I continue to believe that I have a `significant` amount of work ahead of me.
