@@ -4,7 +4,7 @@ title: The Dance Of JavaScript In the Browser
 date: 2025-09-04 15:09:00
 description: Usage of JavaScript in real world applications. 
 tags: javascript dom performace eventloop
-categories: sample-posts
+categories: frontend
 featured: true
 ---
 
