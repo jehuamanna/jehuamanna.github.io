@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-dance-of-javascript-in-the-browser",
+        },{id: "post-is-coding-dead-because-ai-has-taken-over-it",
+        
+          title: "Is coding dead because AI has taken over it?",
+        
+        description: "Manual Coding VS Vibe Coding.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/is-coding-dead/";
+          
+        },
+      },{id: "post-the-dance-of-javascript-in-the-browser",
         
           title: "The Dance Of JavaScript In the Browser",
         
