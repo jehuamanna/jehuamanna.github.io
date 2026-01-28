@@ -28,10 +28,7 @@
       "startDate": "2017-08-01",
       "endDate": "2018-09-30",
       "summary": "I automate the difficult processes. I helped people to utilize themselves in a much more efficient way. I used JavaScript and Python as tools.",
-      "highlights": [
-        "automation",
-        "productivity"
-      ]
+      "highlights": ["automation", "productivity"]
     },
     {
       "name": "Niveus Solutions",
@@ -40,11 +37,7 @@
       "startDate": "2019-03-20",
       "endDate": "2021-03-13",
       "summary": "I built a reporting dashboard for a bank. Refactored a complex codebase to simple and modular, resulting in less time to add features and 1-2 engineers for development.",
-      "highlights": [
-        "refactoring",
-        "frontend",
-        "reducing-complexity"
-      ]
+      "highlights": ["refactoring", "frontend", "reducing-complexity"]
     },
     {
       "name": "Ford Pro Charging (Powered by Electriphi)",
@@ -52,10 +45,7 @@
       "startDate": "2021-03-15",
       "endDate": "2021-08-30",
       "summary": "We managed electric fleets. I was responsible for building an email and push notification system and generating reports of the very large quantities of electric charge utilization.",
-      "highlights": [
-        "backend",
-        "scalable-system"
-      ]
+      "highlights": ["backend", "scalable-system"]
     },
     {
       "name": "Microsoft",
@@ -63,12 +53,7 @@
       "startDate": "2021-09-15",
       "endDate": "2022-12-31",
       "summary": "Modernization of a very old internal legacy system. I built a module that made use of micro-frontend and a custom React extension that fulfilled many needs, including localization and internalization.",
-      "highlights": [
-        "react",
-        "micro-frontend",
-        "a11y",
-        "i8n"
-      ]
+      "highlights": ["react", "micro-frontend", "a11y", "i8n"]
     },
     {
       "name": "QuillBot",
@@ -76,25 +61,14 @@
       "startDate": "2023-01-11",
       "endDate": "2023-06-30",
       "summary": "In a short time, built a module, including writing test cases using Playwright, that was part of an internal CMS tool that helped all the stakeholders in the company to participate in building and managing the product.",
-      "highlights": [
-        "react",
-        "cms",
-        "testing",
-        "playwright"
-      ]
+      "highlights": ["react", "cms", "testing", "playwright"]
     },
     {
       "name": "Niveus Solutions",
       "position": "Frontend Solution architect.",
       "startDate": "2023-08-20",
       "summary": "I take care of multiple clients' frontend-related problems.",
-      "highlights": [
-        "react",
-        "performance",
-        "security",
-        "javascript",
-        "flutter"
-      ]
+      "highlights": ["react", "performance", "security", "javascript", "flutter"]
     }
   ],
   "education": [
