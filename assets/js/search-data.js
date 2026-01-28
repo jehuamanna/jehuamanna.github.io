@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-github-repositories",
-          title: "github repositories",
-          description: "Life in Github",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "I love to solve problems using web technologies. JavaScript/TypeScript (along with the foundation, that is, HTML and CSS) is my way to achieve that. I will not consider any UI frameworks, libraries, or abstractions superior to JavaScript. I continue to believe that I have a significant amount of work ahead of me.",
